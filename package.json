@@ -1,0 +1,35 @@
+{
+  "name": "creart-tdk",
+  "version": "1.3.0",
+  "description": "Creart TDK Dictionary API is an advanced Node.js module that provides easy access to the Turkish Language Association (TDK) dictionary data. It allows developers to retrieve word definitions, synonyms, antonyms, and other linguistic information programmatically.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamzadenizyilmaz/Creart-TDK-Dictionary-API.git"
+  },
+  "keywords": [
+    "tdk",
+    "tdk-api",
+    "tdk api",
+    "Türk Dil Kurumu",
+    "Türkçe Api",
+    "Turkis Api",
+    "Turkish word api"
+  ],
+  "author": {
+    "name": "Hamza Deniz Yılmaz",
+    "url": "https://hamzadenizyilmaz.com",
+    "email": "hamzadenizyilmaz@creartcloud.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hamzadenizyilmaz/Creart-TDK-Dictionary-API/issues"
+  },
+  "homepage": "https://github.com/hamzadenizyilmaz/Creart-TDK-Dictionary-API#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
