@@ -12,19 +12,29 @@
   },
   "keywords": [
     "tdk",
+    "turkish",
+    "dictionary",
+    "language",
+    "api",
+    "turkish-language",
+    "etymology",
+    "proverbs",
+    "sozluk",
+    "turkce",
+    "nlp",
+    "linguistics",
+    "turkish-dictionary",
     "tdk-api",
-    "tdk api",
-    "Türk Dil Kurumu",
-    "Türkçe Api",
-    "Turkis Api",
-    "Turkish word api"
+    "turkish-words",
+    "language-processing",
+    "turkish-nlp"
   ],
   "author": {
     "name": "Hamza Deniz Yılmaz",
     "url": "https://hamzadenizyilmaz.com",
     "email": "hamzadenizyilmaz@creartcloud.com"
   },
-  "license": "ISC",
+  "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/hamzadenizyilmaz/Creart-TDK-Dictionary-API/issues"
   },
