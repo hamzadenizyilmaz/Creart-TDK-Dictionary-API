@@ -2,7 +2,7 @@
 
 [![npm version](https://img.shields.io/npm/v/creart-tdk.svg)](https://www.npmjs.com/package/creart-tdk)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Node.js Version](https://img.shields.io/badge/node-%3E%3D14-brightgreen)](https://nodejs.org)
+[![Node.js Version](https://img.shields.io/badge/node-%3E%3D20-brightgreen)](https://nodejs.org)
 [![Downloads](https://img.shields.io/npm/dm/creart-tdk.svg)](https://www.npmjs.com/package/creart-tdk)
 [![Last Commit](https://img.shields.io/github/last-commit/hamzadenizyilmaz/Creart-TDK-Dictionary-API)](https://github.com/hamzadenizyilmaz/Creart-TDK-Dictionary-API)
 
